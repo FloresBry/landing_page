@@ -620,8 +620,8 @@ progress {
 }
 
 .img-fluid {
-  max-width: 17vw;
-  height: auto;
+  max-width: 12vw;
+  height: 10vw;
 }
 
 .img-thumbnail {
@@ -11626,7 +11626,7 @@ html {
   max-width: 40rem;
 }
 .profile .profile-img {
-  height: 10vw;
+  height: 45vw;
   max-height: 35rem;
   position: absolute;
   bottom: 0;
